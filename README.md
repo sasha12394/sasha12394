@@ -8,7 +8,9 @@
 
 ### 💻 Технологии и проекты  
 **Основной стек:**  
-- **JavaScript** (ES6+)  
+- **JavaScript** (ES6+)
+- **C++**
+- **Qt Creator**
 - **TypeScript**  
 - **React** ⚛️ (+ Hooks, Router)  
 - HTML/CSS (Sass, модули)  
